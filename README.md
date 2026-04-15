@@ -1,1 +1,1 @@
-This C++ implementation code for online car rental System
+This class project combines concepts from Fundamentals of Software Engineering (FSE) and Fundamentals of Database Systems. The repository contains full project documentation and the corresponding C++ (.cpp) source code implementation.
